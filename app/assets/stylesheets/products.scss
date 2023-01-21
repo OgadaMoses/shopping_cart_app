@@ -18,6 +18,7 @@
     td.image {
         // Hide this on mobile deivices
         display: none;
+        
         @media (min-width: 30em) {
             display: block;
             img {
